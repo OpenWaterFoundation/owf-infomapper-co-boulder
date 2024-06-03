@@ -1,0 +1,12 @@
+# Category classification table for HUC10 basins
+# - the value corresponds to HUC10 attribute
+# - the label uses HUC10 and Name values, currently hard-coded here because simple
+# - #ff6666 is rosey red
+value,color,opacity,fillColor,fillOpacity,weight,label
+1019000501,#ff6666,1.0,#ff6666,0.3,2,"1019000501, South Saint Vrain Creek"
+1019000502,#ff6666,1.0,#ff6666,0.3,2,"1019000502, North Saint Vrain Creek"
+1019000503,#ff6666,1.0,#ff6666,0.3,2,"1019000503, Left Hand Creek"
+1019000504,#ff6666,1.0,#ff6666,0.3,2,"1019000504, Headwaters Boulder Creek"
+1019000505,#ff6666,1.0,#ff6666,0.3,2,"1019000505, South Boulder Creek"
+1019000506,#ff6666,1.0,#ff6666,0.3,2,"1019000506, Coal Creek-Boulder Creek"
+1019000507,#ff6666,1.0,#ff6666,0.3,2,"1019000507, Boulder Creek-Saint Vrain Creek"
